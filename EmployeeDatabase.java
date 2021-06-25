@@ -22,6 +22,7 @@ public class EmployeeDatabase {
                 Employee[i].printInfo();
                 System.out.println();
                 System.out.println();
+                System.out.println();
             }
         }
     }
