@@ -21,10 +21,10 @@ public class Employee {
         this.firstName =firstName ;
         this.patronymic =patronymic;
         this.post =post;
-        this.eMail =eMail;
-        this.phoneNumber =phoneNumber;
-        this.wages =wages;
-        this.age =age;
+        this.eMail = eMail;
+        this.phoneNumber = phoneNumber;
+        this.wages = wages;
+        this.age = age;
     }
 // 
     public void printInfo() {System.out.printf("Employee:\n lastName - %s,\n firstName - %s,\n" +
