@@ -26,7 +26,7 @@ public class Employee {
         this.wages =wages;
         this.age =age;
     }
-
+// 
     public void printInfo() {System.out.printf("Employee:\n lastName - %s,\n firstName - %s,\n" +
                     " patronymic - %s,\n post - %s, \n eMail - %s,\n" +
                     " phoneNumber - %s,\n wages - %d,\n age - %d", this.lastName,
